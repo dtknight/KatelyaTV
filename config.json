@@ -9,7 +9,7 @@
     "okzyw": {
       "api": "https://api.okzyw.net/api.php/provide/vod",
       "name": "ok资源网",
-      "detail": "https://api.okzyw.net"
+      "detail": "https://okzyw.net"
     },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
