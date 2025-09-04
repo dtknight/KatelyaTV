@@ -6,10 +6,10 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "okzyw": {
-      "api": "https://api.okzyw.net/api.php/provide/vod",
-      "name": "ok资源网",
-      "detail": "https://okzyw.net"
+    "huyazy": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "虎牙资源网",
+      "detail": "https://huyazy.net/"
     },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
