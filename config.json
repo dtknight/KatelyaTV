@@ -6,9 +6,10 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "huyazy": {
-      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
-      "name": "虎牙资源网",
+    "guangsuzy": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源网",
+      "detail": "https://api.guangsuapi.com"
     },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
