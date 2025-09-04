@@ -9,7 +9,6 @@
     "huyazy": {
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "name": "虎牙资源网",
-      "detail": "https://huyazy.net/"
     },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
