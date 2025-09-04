@@ -7,7 +7,7 @@
       "detail": "http://caiji.dyttzyapi.com"
     },
     "huyazy": {
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "name": "虎牙资源网",
     },
     "ruyi": {
